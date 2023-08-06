@@ -15,4 +15,4 @@ This is my [vortex](https://github.com/vortex-hue) Artificial Intelligence Bot, 
   [vortex assistant](https://chat.vortex-exchange.com)
 
 #### Open source
-This is just a python chatapp full stack project, in the coming months, my team and I are working on something bigger, something powerful and something more flexible, stay tuned
+This is just a python chatapp full stack project, in the coming months, my team and I are working on something bigger, something powerful and something more flexible, stay tuned# vortex-assistant-ai-prod
